@@ -133,7 +133,7 @@ seqinr
 Citation
 If you use m6APrediction in your research, please cite:
 
-Liu, S. (2025). m6APrediction: m6A Site Prediction Using Machine Learning. R package version 1.0.0.
+Liu, S. (2025). m6APrediction: m6A Site Prediction Using Machine Learning. R package version 1.0.1.
 
 License
 This package is licensed under the MIT License. See the LICENSE file for details.
