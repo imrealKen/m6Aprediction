@@ -1,0 +1,12 @@
+Package: m6APrediction
+Type: Package
+Title: m6A Site Prediction Using Machine Learning
+Version: 1.0.0
+Authors@R: person("Siyuan", "Liu", email = "Siyuan.Liu2302@student.uts.edu.au", role = c("aut", "cre"))
+Description: This package provides machine learning models for predicting m6A modification sites in RNA sequences.
+Depends: R (>= 3.5.0)
+License: MIT
+Encoding: UTF-8
+LazyData: true
+Imports: randomForest
+RoxygenNote: 7.3.3
